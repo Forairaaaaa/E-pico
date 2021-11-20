@@ -125,10 +125,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YYLWMLYA
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Epico_V1\Design Rule Check - Epico.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
