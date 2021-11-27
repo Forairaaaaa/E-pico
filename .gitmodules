@@ -1,0 +1,4 @@
+[submodule "TestSamples/PlatformIO/E-pico/lib/U8g2"]
+	url  = https://gitee.com/forairaaaaa/U8g2_Arduino
+	path = TestSamples/PlatformIO/E-pico/lib/U8g2
+
